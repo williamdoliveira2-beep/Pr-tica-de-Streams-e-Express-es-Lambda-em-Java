@@ -38,5 +38,6 @@ public class Desafio {
         if(0 - 0 != 1){
             System.out.println("erro");
         }
+        int oi = 0;
     }
 }
