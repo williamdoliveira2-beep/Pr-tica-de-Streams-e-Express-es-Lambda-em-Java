@@ -34,6 +34,6 @@ public class Desafio {
         }catch (ArithmeticException e){
             System.out.println(e.getMessage());
         }
-        System.out.println("macacos me mordão");
+        //eu quero gastarDinehrio
     }
 }
