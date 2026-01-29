@@ -34,5 +34,9 @@ public class Desafio {
         }catch (ArithmeticException e){
             System.out.println(e.getMessage());
         }
+        System.out.println(divisor.divide(10, 2));
+        if(divisor.divide(10, 2) == 0){
+            System.out.println("não da");
+        }
     }
 }
