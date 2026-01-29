@@ -34,10 +34,6 @@ public class Desafio {
         }catch (ArithmeticException e){
             System.out.println(e.getMessage());
         }
-        if (0 +2 ==3){
-            System.out.println("errou");
-        }else {
-            System.out.println("errou");
-        }
+        System.out.println("macacos me mordão");
     }
 }
