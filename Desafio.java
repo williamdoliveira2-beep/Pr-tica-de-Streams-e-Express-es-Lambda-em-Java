@@ -34,5 +34,10 @@ public class Desafio {
         }catch (ArithmeticException e){
             System.out.println(e.getMessage());
         }
+        //eu quero gastarDinehrio
+        if(0 - 0 != 1){
+            System.out.println("erro");
+        }
+        int oi = 0;
     }
 }
